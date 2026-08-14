@@ -29,19 +29,9 @@
 
 <div class="avatar">
 
-<span id="photoText">photo</span>
-
-<img id="profileImage" src="" alt="Profile Photo">
+<img id="profileImage" src="Muaaz.jpeg" alt="Profile Photo">
 
 </div>
-
-
-<label for="uploadPhoto" class="upload-btn">
-Upload Photo
-</label>
-
-
-<input type="file" id="uploadPhoto" accept="image/*">
 
 
 </div>
@@ -398,37 +388,7 @@ View on GitHub →
 
 
 
-<script>
 
-const uploadPhoto = document.getElementById("uploadPhoto");
-
-const profileImage = document.getElementById("profileImage");
-
-const photoText = document.getElementById("photoText");
-
-
-
-uploadPhoto.addEventListener("change", function(){
-
-
-const file = this.files[0];
-
-
-if(file){
-
-profileImage.src = URL.createObjectURL(file);
-
-profileImage.style.display="block";
-
-photoText.style.display="none";
-
-}
-
-
-});
-
-
-</script>
 
 
 
