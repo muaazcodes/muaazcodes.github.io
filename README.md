@@ -50,7 +50,7 @@
 ## 🌐 Live Portfolio
 
 <p align="center">
-  <a href="https://muaazcodes.github.io">
+  <a href=https://github.com/muaazcodes/muaazcodes.github.io>
     <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -61,6 +61,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    img id="profileImage" src="Muaaz.jpeg" alt="Profile Photo">
   </a>
 </p>
