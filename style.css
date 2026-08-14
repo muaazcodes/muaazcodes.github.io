@@ -225,7 +225,7 @@ height:100%;
 
 object-fit:cover;
 
-display:none;
+display:block;
 
 }
 
@@ -244,68 +244,7 @@ transform:translateY(-12px);
 
 
 
-/* UPLOAD BUTTON */
 
-
-.upload-btn{
-
-margin-top:18px;
-
-
-padding:10px 25px;
-
-
-background:
-
-linear-gradient(
-135deg,
-#2563eb,
-#7c3aed
-);
-
-
-color:white;
-
-
-border-radius:25px;
-
-
-font-family:var(--mono);
-
-
-font-size:13px;
-
-
-cursor:pointer;
-
-
-transition:.3s;
-
-}
-
-
-.upload-btn:hover{
-
-transform:translateY(-3px);
-
-box-shadow:
-
-0 10px 25px rgba(37,99,235,.35);
-
-}
-
-
-
-#uploadPhoto{
-
-display:none;
-
-}
-
-
-
-
-/* NAME */
 
 
 h1{
