@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/Muaaz.jpeg" alt="Muaaz Profile Photo" width="180" style="border-radius:50%;">
+</p>
+
 <h1 align="center">👨‍💻 Hi, I'm Muaaz</h1>
 <h3 align="center">Data Science & AI Enthusiast</h3>
 
@@ -50,7 +54,7 @@
 ## 🌐 Live Portfolio
 
 <p align="center">
-  <a href=https://github.com/muaazcodes/muaazcodes.github.io>
+  <a href="https://muaazcodes.github.io/">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -61,6 +65,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    img id="profileImage" src="Muaaz.jpeg" alt="Profile Photo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
