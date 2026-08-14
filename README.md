@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./assets/Muaaz.jpeg" alt="Muaaz Profile Photo" width="180" style="border-radius:50%;">
-</p>
+
+  
 
 <h1 align="center">👨‍💻 Hi, I'm Muaaz</h1>
 <h3 align="center">Data Science & AI Enthusiast</h3>
